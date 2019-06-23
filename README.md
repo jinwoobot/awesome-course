@@ -6,7 +6,7 @@
 - Offline
 - Paid
 - Free
-- review
+- Review
 
 
 ## Offline
@@ -23,6 +23,6 @@
 
 - [프로그래머스](https://programmers.co.kr/learn) - 프로그래머스에서 운영하는 온라인 코스
 - [edwith 부스트코스](https://www.edwith.org/boost-course/intro) - 무료 인강 / 유료 코드리뷰
-- [POCU](https://pocu.academy/ko) - 유명 유투버 포프가 만든 온라인 코스
+- [POCU](https://pocu.academy/ko) - 유투버 포프가 만든 온라인 코스
 
 ## Other
