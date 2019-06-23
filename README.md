@@ -1,28 +1,40 @@
 # awesome-study
-> 국내 개발자를 위한 스터디모임 정보 아카이브 (오프라인/온라인, 유료/무료)
+> 국내 개발자를 위한 스터디모임 정보 아카이브
+> 개발 스터디모임 국내에도 다양한 형태로 존재(부트캠프, 학원, 스터디모임, 온라인강의..)
 
 ## Contents
 - Online
 - Offline
 - Paid
 - Free
-- Review
 
 
 ## Offline
-국내에 기하급수 적으로 늘어나고 있는 학원 스타일이 스터디 모임
+국내에 기하급수로 늘어나고 있는 학원 스타일 모임과 부트캠프 목록
 
-- [코드스테이츠](https://www.codestates.com) - 직장을 그만두지 않고 소프트웨어 개발자가 되세요
-- [코드스쿼드](https://codesquad.kr/) - NHN NEXT에서 교수님으로 계셨던 김정님, 윤지수님, 정호영님 등이 운영
-- [바닐라코딩](https://www.vanillacoding.co/) - ???
-- [빔캠프](https://veamcamp.com/) - ???
-- [멋쟁이 사자처럼](https://likelion.net/) - 대학생 위주
+- [코드스테이츠](https://www.codestates.com) - 직장다니며 개발자 준비
+- [코드스쿼드](https://codesquad.kr/) - NHN NEXT 강사출신이 운영
+- [바닐라코딩](https://www.vanillacoding.co/) - 자바스크립트 코딩 부트캠프
+- [멋쟁이 사자처럼](https://likelion.net/) - 대학생 코딩부트캠프
+- [알고리즘잡스](https://www.algorithmjobs.io) - 전 삼성전자 면접관이 설립
+- [빔캠프](https://veamcamp.com/) - 디자이너 시선으로 접근하는 웹디자인/개발 
 
 ## Online
 코딩 배우기 위한 인강같은 온라인 코스들이 존재
-
+- [Ask Django](https://www.askcompany.kr/r/) - 인생을 짧습니다 파이썬/장고를 사용하세요
 - [프로그래머스](https://programmers.co.kr/learn) - 프로그래머스에서 운영하는 온라인 코스
 - [edwith 부스트코스](https://www.edwith.org/boost-course/intro) - 무료 인강 / 유료 코드리뷰
 - [POCU](https://pocu.academy/ko) - 유투버 포프가 만든 온라인 코스
+- [노마드 코더스](https://academy.nomadcoders.co/) - 니꼴라스와 함께하는 프론트엔드
+- [코드잇](https://www.codeit.kr/) - 최고의 프로그래밍 교육을 모두에게
+- [러닛](https://www.learnit.co.kr/class/list/) - 플립러닝 플랫폼
+
 
 ## Other
+- 스터디모임 후기
+- 가격대별 스터디 모임
+- 주제별 스터디모임
+- 장소별 스터디모임
+- 별점(후기)별 스터디 모임
+
+- 사이트를 하나 만들까..?
