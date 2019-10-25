@@ -15,7 +15,7 @@
 
 - [코드스테이츠](https://www.codestates.com) - 직장다니며 개발자 준비
 - [코드스쿼드](https://codesquad.kr/) - NHN NEXT 강사출신이 운영
-- [위코드](https://wecode.co.kr/) - 월가 출신 15년차 개발자에게 직접 배우세요
+- [위코드](https://wecode.co.kr/) - 월가 출신 개발자에게 직접 배우세요
 - [바닐라코딩](https://www.vanillacoding.co/) - 자바스크립트 코딩 부트캠프
 - [멋쟁이 사자처럼](https://likelion.net/) - 대학생 코딩부트캠프
 - [알고리즘잡스](https://www.algorithmjobs.io) - 전 삼성전자 면접관이 설립
@@ -30,7 +30,8 @@
 - [노마드 코더스](https://academy.nomadcoders.co/) - 니꼴라스와 함께하는 프론트엔드
 - [코드잇](https://www.codeit.kr/) - 최고의 프로그래밍 교육을 모두에게
 - [러닛](https://www.learnit.co.kr/class/list/) - 플립러닝 플랫폼
+- [코드플러스](https://code.plus/) - 백준 알고리즘 온라인 강의
 
 
 ## Other
-- [코딩애플](https://www.codingapple.com) - 온오프 다 있음 for 퍼블리셔
+- [코딩애플](https://www.codingapple.com) - 퍼블리셔를 위한 강의
