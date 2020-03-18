@@ -35,6 +35,7 @@
 - [러닛](https://www.learnit.co.kr/class/list/) - 플립러닝 플랫폼
 - [코드플러스](https://code.plus/) - 백준 알고리즘 온라인 강의
 - [에듀캐스트](https://educast.com/) - 백준 강의, 장고강의, 기타 수학강의, 부동산 강의
+- [패스트캠퍼스](https://www.fastcampus.co.kr/category_dev_online/) - 온라인강의도 있음
 
 
 ## Other
