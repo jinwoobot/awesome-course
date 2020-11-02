@@ -1,7 +1,6 @@
 # awesome-course
 > 국내 코딩 스터디모임 정보 아카이브
-
-> 코딩 스터디모임이 국내에도 다양한 형태로 존재(부트캠프, 학원, 스터디모임, 온라인강의)
+> 코딩 스터디모임이 국내에도 다양한 형태로 존재합니다. 
 
 ## Contents
 - Online
@@ -24,6 +23,7 @@
 - [팀노바](https://www.teamnovalight.co.kr/) - 코딩 교육 끝판왕
 - [스파르타코딩](https://spartacodingclub.kr) - 6시간 X 8주만에 코딩 왕초보 탈출
 - [SSAFY](https://www.ssafy.com/) - 삼성 청년 SW 
+- [엘리스 코딩](https://elice.io/platform) - 인터랙티브 교육을 위한 올인원 교실
 
 ## Online
 코딩 배우기 위한 인강같은 온라인 코스들이 존재
