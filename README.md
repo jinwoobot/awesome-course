@@ -1,13 +1,9 @@
-# awesome-course
-> 국내 코딩 스터디모임 정보 아카이브
-> 코딩 스터디모임이 국내에도 다양한 형태로 존재합니다. 
+# Awesome-course
+국내 코딩 스터디모임 정보 아카이브 
 
-## Contents
-- Online
-- Offline
-- Paid
-- Free
-
+# Tags
+- Online ![Online](https://github.com/velbie/awesome-course/blob/master/images/online.png)
+- Offline![Offline](https://github.com/velbie/awesome-course/blob/master/images/offline.png)
 
 ## Offline
 국내에 기하급수로 늘어나고 있는 학원 스타일 모임과 부트캠프 목록
