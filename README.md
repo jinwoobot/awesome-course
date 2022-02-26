@@ -23,9 +23,9 @@ PR 환영입니다 :)
 - [코딩애플](https://www.codingapple.com) - 퍼블리셔를 위한 강의 
 
 # 🤩 Online Study
-- [프로그래머스](https://programmers.co.kr/learn) - 프로그래머스에서 운영하는 온라인 코스 ![Online](https://github.com/velbie/awesome-course/blob/master/images/online.png)
-- [Inflearn](https://www.inflearn.com/) - 배우고, 나누고, 성장하세요 ![Online](https://github.com/velbie/awesome-course/blob/master/images/online.png)
-- [엘리스 코딩](https://elice.io/platform) - 인터랙티브 교육을 위한 올인원 교실 ![Online](https://github.com/velbie/awesome-course/blob/master/images/online.png)
-- [코드잇](https://www.codeit.kr/) - 최고의 프로그래밍 교육을 모두에게 ![Online](https://github.com/velbie/awesome-course/blob/master/images/online.png)
-- [POCU](https://pocu.academy/ko) - 유투버 포프가 만든 온라인 코스 ![Online](https://github.com/velbie/awesome-course/blob/master/images/online.png)
+- [프로그래머스](https://programmers.co.kr/learn) - 프로그래머스에서 운영하는 온라인 코스
+- [Inflearn](https://www.inflearn.com/) - 배우고, 나누고, 성장하세요
+- [엘리스 코딩](https://elice.io/platform) - 인터랙티브 교육을 위한 올인원 교실
+- [코드잇](https://www.codeit.kr/) - 최고의 프로그래밍 교육을 모두에게
+- [POCU](https://pocu.academy/ko) - 유투버 포프가 만든 온라인 코스
 
